@@ -1,1 +1,5 @@
 ﻿Log "This is my helper suite 1."
+
+To TestMe
+	Log "This is a test. This is a helper handler from my Helper Suite."
+End TestMe
